@@ -1,0 +1,18 @@
+.header__second-menu {
+  height: 84px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  gap: 167px;
+}
+
+.second-menu__item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
